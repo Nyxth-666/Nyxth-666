@@ -1,8 +1,4 @@
-Here’s a **cleaner, more professional, and slightly more confident update** to your profile while keeping your personality intact. This works well for a **GitHub README / portfolio intro** and reflects growth without overselling.
-
----
-
-## 👋 Hi there, I’m **Nyxth**
+# 👋 Hi there, I’m **Nyxth**
 
 I’m an **IT student** with a strong interest in **web development** and **graphic design**.
 I enjoy turning ideas and inspiration into functional, visually appealing projects, and I’m constantly learning through hands-on practice.
