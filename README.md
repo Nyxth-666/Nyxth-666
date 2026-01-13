@@ -22,18 +22,25 @@
 
 <h2 align="center">📚 Currently Learning:</h2>
 
-<p align="center">
-  <ul display="flex" align="center" justify-content="space-between">
-    <li>JavaScript fundamentals & best practices</li>
-    <li>Clean and concise web development</li>
-    <li>Responsive and mobile-first design</li>
-  </ul>
-  <ul>
-      <li>Improving UI/UX through practice</li>
-      <li>Typescript and TailWindCss fundamentals</li>
-      <li>Fundamentals of being a Front End web developer</li>
-  </ul>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>JavaScript fundamentals & best practices</li>
+        <li>Clean and concise web development</li>
+        <li>Responsive and mobile-first design</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Improving UI/UX through practice</li>
+        <li>TypeScript and Tailwind CSS fundamentals</li>
+        <li>Front-end web development fundamentals</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
