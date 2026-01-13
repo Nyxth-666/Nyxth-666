@@ -8,14 +8,12 @@
 
 <h2 align="center">👋 Hi there, I’m Joshua</h2>
 
-<br>
-
-<h3 align="center">
-  I’m an **IT student** with a strong interest in **web development** and **graphic design**.
+<p align="center">
+  I’m an IT student with a strong interest in web development and graphic design.
   I enjoy turning ideas and inspiration into functional, visually appealing projects, and I’m constantly learning through hands-on practice.
   
-  Right now, I’m focused on building solid foundations in **frontend development**, improving design consistency, and developing projects that reflect real-world use cases.
-</h3>
+  Right now, I’m focused on building solid foundations in frontend development, improving design consistency, and developing projects that reflect real-world use cases.
+</p>
 
 ---
 
