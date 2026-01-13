@@ -66,18 +66,18 @@
   </tr>
 </table>
 
+
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,figma,vscode,windows" />
+</div>
+
 <br>
 
 <h2 align="center">🛠 Tech Stack & Activity Graph</h2>
 
 
-## 
 
-<div align="center">  
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,figma,vscode,windows" />
 
-  <span>[![wakatime](https://wakatime.com/badge/user/fb62ca60-431b-4d41-858d-aaa726dd8d2d.svg)](https://wakatime.com/@fb62ca60-431b-4d41-858d-aaa726dd8d2d)</span>
-</div>
 
 ---
 ## Currently Learning
