@@ -6,9 +6,9 @@
   </a>
 </h1>
 
-<h2>👋 Hi there, I’m **Joshua**</h2>
+<h2 align="center">👋 Hi there, I’m Joshua</h2>
 
-# 
+---
 
 I’m an **IT student** with a strong interest in **web development** and **graphic design**.
 I enjoy turning ideas and inspiration into functional, visually appealing projects, and I’m constantly learning through hands-on practice.
