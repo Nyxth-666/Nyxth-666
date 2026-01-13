@@ -79,6 +79,17 @@
 <br><br>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 05 January 2026 - To: 12 January 2026
+
+CSS          10 hrs 12 mins  █████████████░░░░░░░░░░░░   52.44 %
+HTML         5 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.77 %
+JavaScript   4 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
+Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
 
 <br><br>
