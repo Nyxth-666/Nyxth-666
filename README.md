@@ -74,8 +74,12 @@
 
 <h2 align="center">🛠 Tech Stack & Activity Graph</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyxth-666&commits_year=2020)
-
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005" />
+</a>
+<a href="https://github.com/Pranesh-2005/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Pranesh-2005&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 ---
