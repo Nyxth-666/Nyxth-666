@@ -74,10 +74,11 @@
 
 <h2 align="center">🛠 Tech Stack & Activity Graph</h2>
 
-![Snake animation](https://raw.githubusercontent.com/Nyxth-666/Nyxth-666/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <h2>Coding Contributions Snake</h2>
+  <img src="https://github.com/Nyxth-666/Nyxth-666/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nyxth-666)](https://git.io/streak-stats)
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=nyxth-666&theme=shadow-purple&border_radius=5.5" alt="GitHub Streak" />
