@@ -20,6 +20,17 @@ Right now, I’m focused on building solid foundations in **frontend development
 
 ---
 
+## 🛠 Tech Stack & Activity Graph
+
+<div align="center">
+  <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Nyxth-666&layout=compact&langs_count=8)](https://github.com/Nyxth-666)</span>
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,vscode,windows" />
+
+  <span>[![wakatime](https://wakatime.com/badge/user/fb62ca60-431b-4d41-858d-aaa726dd8d2d.svg)](https://wakatime.com/@fb62ca60-431b-4d41-858d-aaa726dd8d2d)</span>
+</div>
+
+---
 ## 📚 Currently Learning
 
 * JavaScript fundamentals & best practices
@@ -37,16 +48,6 @@ Right now, I’m focused on building solid foundations in **frontend development
 * Improving code consistency, structure, and design workflow
 * Developing better habits in documentation and version control
 * On the way to commit everyday this year
-
----
-
-## 🛠 Tech Stack & Activity Graph
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,git" />
-
-  <span>[![wakatime](https://wakatime.com/badge/user/fb62ca60-431b-4d41-858d-aaa726dd8d2d.svg)](https://wakatime.com/@fb62ca60-431b-4d41-858d-aaa726dd8d2d)</span>
-</div>
 
 ---
 
