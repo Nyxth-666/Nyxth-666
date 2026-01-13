@@ -74,7 +74,11 @@
 
 <h2 align="center">🛠 Tech Stack & Activity Graph</h2>
 
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nyxth-666&theme=shadow-purple&border_radius=5.5" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 ## Currently Learning
