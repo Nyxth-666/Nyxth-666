@@ -1,39 +1,64 @@
-## Hi there 👋
+Here’s a **cleaner, more professional, and slightly more confident update** to your profile while keeping your personality intact. This works well for a **GitHub README / portfolio intro** and reflects growth without overselling.
 
-I'm Nyxth, an IT student aspiring to be a web developer and a graphic designer.
+---
 
-I enjoy creating projects based on inspiration and ideas that come to mind, and I'm constantly learning and improving my skills.
+## 👋 Hi there, I’m **Nyxth**
 
-Currently, I'm focusing on improving my skills in web development and graphic design through personal development and projects.
+I’m an **IT student** with a strong interest in **web development** and **graphic design**.
+I enjoy turning ideas and inspiration into functional, visually appealing projects, and I’m constantly learning through hands-on practice.
 
-## Skills
-- HTML
-- CSS
-- JavaScript
-- Python
+Right now, I’m focused on building solid foundations in **frontend development**, improving design consistency, and developing projects that reflect real-world use cases.
 
-## Currently Learning
-- JavaScript Fundamentals
-- Concise Web Development
-- Responsive Web Design
+---
 
-## Progress
-- Actively committing school and personal projects
-- Practicing web development through hands-on projects
-- Improving consistency in coding and design
+## 🚀 Skills
 
-## GitHub Stats
+* **HTML** – semantic structure & accessibility
+* **CSS** – layouts, responsiveness, UI styling
+* **JavaScript** – interactivity & logic
+* **Python** – fundamentals & problem-solving
+* **Git & GitHub** – version control & project tracking
+
+---
+
+## 📚 Currently Learning
+
+* JavaScript fundamentals & best practices
+* Clean and concise web development
+* Responsive and mobile-first design
+* Improving UI/UX through practice
+
+---
+
+## 📈 Progress & Practice
+
+* Actively committing **school and personal projects**
+* Building projects to apply concepts, not just learn theory
+* Improving **code consistency**, structure, and design workflow
+* Developing better habits in documentation and version control
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,py,git" /> <br>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,git" />
 </div>
 
-## Link
-- Portfolio (soon)
+---
 
-## Fun Facts
-* I like cats
-* I drink coffee 2-3x a day
-* I only go out when necessary
+## 🔗 Links
+
+* **Portfolio:** *Coming soon*
+
+---
+
+## ☕ Fun Facts
+
+* I like cats 🐱
+* I drink coffee **2–3 times a day**
+* I only go out when absolutely necessary
+
+---
+
+Just tell me 👍
