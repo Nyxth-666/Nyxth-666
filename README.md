@@ -23,7 +23,7 @@
 <h2 align="center">📚 Currently Learning:</h2>
 
 <p align="center">
-  <ul justify-content="space-between">
+  <ul display="flex" align="center" justify-content="space-between">
     <div>
       <li>JavaScript fundamentals & best practices</li>
       <li>Clean and concise web development</li>
