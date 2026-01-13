@@ -1,15 +1,15 @@
-name: CI
+name: Waka Readme
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
+    name: Update WakaTime stats
     runs-on: ubuntu-latest
-
     steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
