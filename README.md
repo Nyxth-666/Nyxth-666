@@ -74,6 +74,9 @@
 
 <h2 align="center">🛠 Tech Stack & Activity Graph</h2>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <h2>Coding Contributions Snake</h2>
   <img src="https://github.com/Nyxth-666/Nyxth-666/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
