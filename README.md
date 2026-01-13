@@ -41,26 +41,40 @@
   </tr>
 </table>
 
+<br>
+
+<h2 align="center">🚀 Skills and Tools</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>HTML – semantic structure & accessibility</li>
+        <li>CSS – layouts, responsiveness, UI styling</li>
+        <li>JavaScript – interactivity & logic</li>
+        <li>Python – fundamentals & problem-solving</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Git & GitHub – version control & project tracking</li>
+        <li>Figma</li>
+        <li>VS Code</li>
+        <li>Windows</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-## 🚀 Skills and Tools
+<h2 align="center">🛠 Tech Stack & Activity Graph</h2>
 
-* **HTML** – semantic structure & accessibility
-* **CSS** – layouts, responsiveness, UI styling
-* **JavaScript** – interactivity & logic
-* **Python** – fundamentals & problem-solving
-  
-* **Git & GitHub** – version control & project tracking
-* **VS Code**
-* **Windows**
 
----
-
-## 🛠 Tech Stack & Activity Graph
+## 
 
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,figma,vscode,windows" />
 
   <span>[![wakatime](https://wakatime.com/badge/user/fb62ca60-431b-4d41-858d-aaa726dd8d2d.svg)](https://wakatime.com/@fb62ca60-431b-4d41-858d-aaa726dd8d2d)</span>
 </div>
