@@ -6,6 +6,8 @@
   </a>
 </h1>
 
+<br>
+
 <h2 align="center">👋 Hi there, I’m Joshua</h2>
 
 <p align="center">
@@ -16,11 +18,22 @@
   Right now, I’m focused on building solid foundations in frontend development, improving design consistency, and developing projects that reflect real-world use cases.
 </p>
 
+<br>
 
+<h2 align="center">📚 Currently Learning:</h2>
 
+<p align="center">
+  <ul>
+    <li>JavaScript fundamentals & best practices</li>
+    <li>Clean and concise web development</li>
+    <li>Responsive and mobile-first design</li>
+    <li>Improving UI/UX through practice</li>
+    <li>Typescript and TailWindCss fundamentals</li>
+    <li>Fundamentals of being a Front End web developer</li>
+  </ul>
+</p>
 
-
-
+<br>
 
 ## 🚀 Skills and Tools
 
@@ -44,13 +57,9 @@
 </div>
 
 ---
-## 📚 Currently Learning
+## Currently Learning
 
-* JavaScript fundamentals & best practices
-* Clean and concise web development
-* Responsive and mobile-first design
-* Improving UI/UX through practice
-* Typescript and TailWindCss fundamentals
+
 
 ---
 
