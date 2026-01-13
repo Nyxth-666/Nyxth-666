@@ -74,20 +74,7 @@
 
 <h2 align="center">🛠 Tech Stack & Activity Graph</h2>
 
-# Hi, I'm Shin 👋
 
-## WakaTime Stats
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nyxth-666)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxth-666&layout=compact)
-
-## Coding Contributions Snake
-![Snake animation](https://github.com/Nyxth-666/Nyxth-666/blob/output/github-contribution-grid-snake.svg)
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=nyxth-666&theme=shadow-purple&border_radius=5.5" alt="GitHub Streak" />
