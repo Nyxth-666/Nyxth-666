@@ -1,4 +1,4 @@
-<img align="right" src="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)">
+<img align="right" src="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nyxth-666.visitor-badge&left_text=My%20Page%20Visitors)">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
