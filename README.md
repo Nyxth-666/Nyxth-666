@@ -1,3 +1,5 @@
+<img align="right" src="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)">
+
 # 👋 Hi there, I’m **Nyxth**
 
 I’m an **IT student** with a strong interest in **web development** and **graphic design**.
