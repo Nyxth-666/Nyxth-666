@@ -74,6 +74,9 @@
 
 <h2 align="center">🛠 Tech Stack & Activity Graph</h2>
 
+![Snake animation](https://raw.githubusercontent.com/Nyxth-666/Nyxth-666/output/github-contribution-grid-snake-dark.svg)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nyxth-666)](https://git.io/streak-stats)
 
 <a href="https://git.io/streak-stats">
