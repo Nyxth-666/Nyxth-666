@@ -13,7 +13,7 @@
 <p align="center">
   <img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNhOHprc2hraDJhc3VrMnYzc2E4YXRzN2M0MGNuZXU4eGw4enExbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUckyQVjuHNx9vXUtv/giphy.gif">
 
-  I’m an IT student with a strong interest in web development and graphic design.
+  I’m a 2nd year IT student with a strong interest in web development and graphic design.
   I enjoy turning ideas and inspiration into functional, visually appealing projects, and I’m constantly learning through hands-on practice.
   <br><br>
   Right now, I’m focused on building solid foundations in frontend development, improving design consistency, and developing projects that reflect real-world use cases.
