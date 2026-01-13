@@ -16,7 +16,11 @@
   Right now, I’m focused on building solid foundations in frontend development, improving design consistency, and developing projects that reflect real-world use cases.
 </p>
 
----
+
+
+
+
+
 
 ## 🚀 Skills and Tools
 
@@ -33,9 +37,7 @@
 
 ## 🛠 Tech Stack & Activity Graph
 
-<div align="center">
-  <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Nyxth-666&layout=compact&langs_count=8)](https://github.com/Nyxth-666)</span>
-  
+<div align="center">  
   <img src="https://skillicons.dev/icons?i=html,css,js,py,git,vscode,windows" />
 
   <span>[![wakatime](https://wakatime.com/badge/user/fb62ca60-431b-4d41-858d-aaa726dd8d2d.svg)](https://wakatime.com/@fb62ca60-431b-4d41-858d-aaa726dd8d2d)</span>
