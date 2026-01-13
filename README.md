@@ -43,9 +43,10 @@ Right now, I’m focused on building solid foundations in **frontend development
 ## 🛠 Tech Stack & Activity Graph
 
 <div align="center">
-  [![wakatime](https://wakatime.com/badge/user/fb62ca60-431b-4d41-858d-aaa726dd8d2d.svg)](https://wakatime.com/@fb62ca60-431b-4d41-858d-aaa726dd8d2d)
   <img src="https://skillicons.dev/icons?i=html,css,js,py,git" />
 </div>
+
+[![wakatime](https://wakatime.com/badge/user/fb62ca60-431b-4d41-858d-aaa726dd8d2d.svg)](https://wakatime.com/@fb62ca60-431b-4d41-858d-aaa726dd8d2d)
 
 ---
 
