@@ -1,10 +1,10 @@
 <img align="right" src="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)">
 
-<div align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=70&pause=1000&color=8C3DF7&background=FFFFFF00&center=true&vCenter=true&width=900&height=80&lines=%E2%85%A9+Joshie+-+Borrow+%E2%85%AA" alt="Typing SVG" />
   </a>
-</div>
+</h1>
 
 
 # 👋 Hi there, I’m **Nyxth**
