@@ -1,5 +1,12 @@
 <img align="right" src="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)">
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=8C3DF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Joshie+-+Borrow" alt="Typing SVG" />
+  </a>  
+</div>
+
+
 # 👋 Hi there, I’m **Nyxth**
 
 I’m an **IT student** with a strong interest in **web development** and **graphic design**.
