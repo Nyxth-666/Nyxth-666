@@ -76,7 +76,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,py,git,figma,vscode,windows" />
 </div>
 
-<br><br>
+<br>
 
 <!--START_SECTION:waka-->
 
@@ -94,7 +94,7 @@ Python       40 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -102,32 +102,37 @@ Python       40 mins         ▒░░░░░░░░░░░░░░░░
   </a>
 </div>
 
----
-## Currently Learning
+<h2 align="center">📈 Progress & Practice</h2>
 
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>Actively committing school and personal projects.</li>
+        <li>Building projects to apply concepts, not just learn theory.</li>
+        <li>Improving code consistency, structure, and design workflow.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Developing better habits in documentation and version control.</li>
+        <li>On the way to commit everyday this year.</li>
+        <li>Actively learning everyday for a new knowledge.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<br>
 
----
+<h2 align="center">🔗 Links</h2>
 
-## 📈 Progress & Practice
+<p align="center">Coming Soon</p>
 
-* Actively committing **school and personal projects**
-* Building projects to apply concepts, not just learn theory
-* Improving code consistency, structure, and design workflow
-* Developing better habits in documentation and version control
-* On the way to commit everyday this year
+<br>
 
----
-
-## 🔗 Links
-
-* **Portfolio:** *Coming soon*
-
----
-
-## ☕ Fun Facts
+<h2 align="center">☕ Fun Facts</h2>
 
 * I like cats 🐱
 * I drink coffee **2–3 times a day**
 * I only go out when absolutely necessary
-
