@@ -133,6 +133,9 @@ Python       40 mins         ▒░░░░░░░░░░░░░░░░
 
 <h2 align="center">☕ Fun Facts</h2>
 
+<img align="right" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZqNGJkdXN6eHdseTY1aXRiN2R5YWNxYWNpMWtsM2V3dXdnM3Z4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbZ41qQ9NqnJ0klRbs/giphy.gif">
+
 * I like cats 🐱
-* I drink coffee **2–3 times a day**
+* I watch anime almost everyday
+* I drink coffee 2–3 times a day
 * I only go out when absolutely necessary
