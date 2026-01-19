@@ -80,14 +80,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nyxth-666&theme=shadow-purple&border_radius=5.5" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -106,9 +98,17 @@ Python       40 mins         ▒░░░░░░░░░░░░░░░░
 
 <br>
 
-<h2 align="center">🧩 Contribution Graph</h2>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nyxth-666&bg_color=000&color=fff&line=8339b3&point=8339b3&area=true&border_color=fff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+<h2 align="center">🧩 Github Stats</h2>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nyxth-666&theme=shadow-purple&border_radius=5.5" alt="GitHub Streak" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nyxth-666&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
