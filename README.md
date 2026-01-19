@@ -1,4 +1,6 @@
-<img align="right" src="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nyxth-666.visitor-badge&left_text=My%20Page%20Visitors)">
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nyxth-666.nyxth-666&"  />
+</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
@@ -78,6 +80,14 @@
 
 <br>
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nyxth-666&theme=shadow-purple&border_radius=5.5" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -96,11 +106,16 @@ Python       40 mins         ▒░░░░░░░░░░░░░░░░
 
 <br>
 
+<h2 align="center">🧩 Contribution Graph</h2>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nyxth-666&bg_color=000&color=fff&line=8339b3&point=8339b3&area=true&border_color=fff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nyxth-666&theme=shadow-purple&border_radius=5.5" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nyxth-666&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyxth-666&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&exclude_repo=DSA" height="150" alt="languages graph"  />
 </div>
+
+<br>
 
 <h2 align="center">📈 Progress & Practice</h2>
 
