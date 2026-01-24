@@ -65,11 +65,11 @@
 <h3 align="center">Tools</h3>
 
 <div class="tech-stack">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
 <br>
@@ -97,31 +97,6 @@
 
 <br>
 
-<h2 align="center">🚀 Skills and Tools</h2>
-
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li>HTML – semantic structure & accessibility</li>
-        <li>CSS – layouts, responsiveness, UI styling</li>
-        <li>JavaScript – interactivity & logic</li>
-        <li>Python – fundamentals & problem-solving</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Git & GitHub – version control & project tracking</li>
-        <li>Figma</li>
-        <li>VS Code</li>
-        <li>Windows</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <h2 align="center">🧩 Github Stats</h2>
 
 <div align="center">
@@ -138,6 +113,9 @@
 </div>
 
 <br>
+
+
+<h2 align="center">💻 Activity Graph</h2>
 
 <!--START_SECTION:waka-->
 
@@ -156,8 +134,6 @@ Python       40 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <br>
-
-<h2 align="center">💻 Activity Graph</h2>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nyxth-666&bg_color=000&color=fff&line=8339b3&point=8339b3&area=true&border_color=fff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
