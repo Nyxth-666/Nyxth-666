@@ -10,6 +10,18 @@
   .tech-stack img {
     height: 30px;
   }
+
+  .tech-stack img,
+  .tech-grid img {
+    transition: transform 0.2s ease, opacity 0.2s ease;
+  }
+
+  .tech-stack img:hover,
+  .tech-grid img:hover {
+    transform: translateY(-3px) scale(1.05);
+    opacity: 0.9;
+  }
+
 </style>
 
 <div align="right">
