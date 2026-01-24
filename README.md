@@ -15,10 +15,11 @@
 <p align="center">
   <img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNhOHprc2hraDJhc3VrMnYzc2E4YXRzN2M0MGNuZXU4eGw4enExbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUckyQVjuHNx9vXUtv/giphy.gif">
 
-  I’m a 2nd year IT student with a strong interest in web development and graphic design.
-  I enjoy turning ideas and inspiration into functional, visually appealing projects, and I’m constantly learning through hands-on practice.
-  <br><br>
-  Right now, I’m focused on building solid foundations in frontend development, improving design consistency, and developing projects that reflect real-world use cases.
+I’m a 2nd year IT student with a strong interest in web development and graphic design.
+I enjoy turning ideas and inspiration into functional, visually appealing projects, and I’m constantly learning through hands-on practice.
+<br><br>
+Right now, I’m focused on building solid foundations in frontend development, improving design consistency, and developing projects that reflect real-world use cases.
+
 </p>
 
 <br>
@@ -57,6 +58,7 @@
         <li>JavaScript fundamentals & best practices</li>
         <li>Clean and concise web development</li>
         <li>Responsive and mobile-first design</li>
+        <li>ReactJS fundamentals</li>
       </ul>
     </td>
     <td>
@@ -87,7 +89,6 @@
 </div>
 
 <br>
-
 
 <h2 align="center">💻 Activity Graph</h2>
 
@@ -146,7 +147,7 @@ Python       40 mins         ▒░░░░░░░░░░░░░░░░
 
 <img align="right" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZqNGJkdXN6eHdseTY1aXRiN2R5YWNxYWNpMWtsM2V3dXdnM3Z4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbZ41qQ9NqnJ0klRbs/giphy.gif">
 
-* I like cats 🐱
-* I watch anime almost everyday
-* I drink coffee 2–3 times a day
-* I only go out when absolutely necessary
+- I like cats 🐱
+- I watch anime almost everyday
+- I drink coffee 2–3 times a day
+- I only go out when absolutely necessary
