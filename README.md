@@ -95,15 +95,15 @@ Right now, I’m focused on building solid foundations in frontend development, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2025 - To: 23 February 2026
+From: 18 December 2025 - To: 24 February 2026
 
-Total Time: 107 hrs 23 mins
+Total Time: 108 hrs 1 min
 
-CSS          44 hrs                ██████████▒░░░░░░░░░░░░░░   40.96 %
-JavaScript   34 hrs 53 mins        ████████░░░░░░░░░░░░░░░░░   32.47 %
-HTML         20 hrs 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-Markdown     5 hrs 1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-TypeScript   50 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+CSS          44 hrs                ██████████▒░░░░░░░░░░░░░░   40.72 %
+JavaScript   35 hrs 30 mins        ████████▒░░░░░░░░░░░░░░░░   32.86 %
+HTML         20 hrs 47 mins        ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
+Markdown     5 hrs 1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+TypeScript   50 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
