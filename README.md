@@ -18,7 +18,7 @@
 I’m a 2nd year IT student with a strong interest in web development and graphic design.
 I enjoy turning ideas and inspiration into functional, visually appealing projects, and I’m constantly learning through hands-on practice.
 <br><br>
-Right now, I’m focused on building solid foundations in frontend development, improving design consistency, and developing projects that reflect real-world use cases.
+Right now, I’m focused on building solid foundations in frontend development, improving design consistency, JavaScript logic and fundamental, and developing projects that reflect real-world use cases.
 
 </p>
 
