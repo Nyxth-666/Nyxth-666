@@ -95,7 +95,7 @@ Right now, I’m focused on building solid foundations in frontend development, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2025 - To: 30 March 2026
+From: 18 December 2025 - To: 01 April 2026
 
 Total Time: 123 hrs 27 mins
 
