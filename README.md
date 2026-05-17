@@ -70,9 +70,10 @@ Right now, I'm focused on building solid foundations in frontend development, im
 </div>
 <br>
 <h2 align="center">⏱ WakaTime Stats</h2>
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
 ```txt
+
 From: 14 December 2025 - To: 17 May 2026
 Total Time: 149 hrs 32 mins
 JavaScript   58 hrs 37 mins        █████████▓░░░░░░░░░░░░░░░   39.18 %
@@ -83,6 +84,7 @@ Markdown     5 hrs 49 mins         █░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
 <br>
 <h2 align="center">💻 Activity Graph</h2>
 <div align="center">
@@ -112,14 +114,30 @@ Markdown     5 hrs 49 mins         █░░░░░░░░░░░░░░
 </table>
 <br>
 <h2 align="center">🚀 Featured Projects</h2>
-<div align="center">
-  <a href="https://github.com/Nyxth-666/E-Commerce-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nyxth-666&repo=E-Commerce-App&theme=midnight-purple&hide_border=false" alt="E-Commerce-App" />
-  </a>
-  <a href="https://github.com/Nyxth-666/Student-Productivity-Hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nyxth-666&repo=Student-Productivity-Hub&theme=midnight-purple&hide_border=false" alt="Student-Productivity-Hub" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Nyxth-666/E-Commerce-App">
+        <b>🛒 E-Commerce App</b>
+      </a>
+      <br>
+      A modern e-commerce web app built with React, integrating a third-party API to display products, categories, and images — simulating a real-world shopping experience.
+      <br><br>
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Nyxth-666/Student-Productivity-Hub">
+        <b>📚 Student Productivity Hub</b>
+      </a>
+      <br>
+      A simple and functional productivity website for students to manage tasks, track study time, and take notes efficiently.
+      <br><br>
+      <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+</table>
 <br>
 <h2 align="center">🔗 Links</h2>
 <p align="center">Coming Soon</p>
