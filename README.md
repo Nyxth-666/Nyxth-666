@@ -71,6 +71,19 @@ Right now, I'm focused on building solid foundations in frontend development, im
 <br>
 <h2 align="center">💻 Activity Graph</h2>
 <!--START_SECTION:waka-->
+
+```txt
+From: 16 December 2025 - To: 17 May 2026
+
+Total Time: 149 hrs 32 mins
+
+JavaScript   58 hrs 37 mins        █████████▓░░░░░░░░░░░░░░░   39.18 %
+CSS          49 hrs 49 mins        ████████▒░░░░░░░░░░░░░░░░   33.30 %
+HTML         22 hrs 7 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+Python       9 hrs 54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Markdown     5 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+```
+
 <!--END_SECTION:waka-->
 <br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nyxth-666&bg_color=000&color=fff&line=8339b3&point=8339b3&area=true&border_color=fff)](https://github.com/ashutosh00710/github-readme-activity-graph)
