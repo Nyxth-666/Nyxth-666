@@ -69,14 +69,12 @@ Right now, I'm focused on building solid foundations in frontend development, im
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyxth-666&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&exclude_repo=DSA" height="150" alt="languages graph"  />
 </div>
 <br>
-<h2 align="center">💻 Activity Graph</h2>
+<h2 align="center">⏱ WakaTime Stats</h2>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2025 - To: 17 May 2026
-
+From: 14 December 2025 - To: 17 May 2026
 Total Time: 149 hrs 32 mins
-
 JavaScript   58 hrs 37 mins        █████████▓░░░░░░░░░░░░░░░   39.18 %
 CSS          49 hrs 49 mins        ████████▒░░░░░░░░░░░░░░░░   33.30 %
 HTML         22 hrs 7 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
@@ -86,7 +84,12 @@ Markdown     5 hrs 49 mins         █░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nyxth-666&bg_color=000&color=fff&line=8339b3&point=8339b3&area=true&border_color=fff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align="center">💻 Activity Graph</h2>
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxth-666&bg_color=000&color=fff&line=8339b3&point=8339b3&area=true&border_color=fff" alt="Nyxth-666's github activity graph" />
+  </a>
+</div>
 <br>
 <h2 align="center">📈 Progress & Practice</h2>
 <table align="center">
