@@ -72,15 +72,17 @@ Right now, I'm focused on building solid foundations in frontend development, im
 <h2 align="center">⏱ WakaTime Stats</h2>
 
 <!--START_SECTION:waka-->
-```txt
 
+```txt
 From: 14 December 2025 - To: 17 May 2026
-Total Time: 149 hrs 32 mins
-JavaScript   58 hrs 37 mins        █████████▓░░░░░░░░░░░░░░░   39.18 %
-CSS          49 hrs 49 mins        ████████▒░░░░░░░░░░░░░░░░   33.30 %
-HTML         22 hrs 7 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
-Python       9 hrs 54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-Markdown     5 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+
+Total Time: 149 hrs 55 mins
+
+JavaScript   58 hrs 58 mins        █████████▓░░░░░░░░░░░░░░░   39.32 %
+CSS          49 hrs 50 mins        ████████▒░░░░░░░░░░░░░░░░   33.22 %
+HTML         22 hrs 7 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+Python       9 hrs 54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Markdown     5 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->
