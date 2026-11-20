@@ -1,153 +1,87 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nyxth-666.nyxth-666&"  />
-</div>
-<h1 align="center">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=70&pause=1000&color=8C3DF7&background=FFFFFF00&center=true&vCenter=true&width=900&height=80&lines=%E2%85%A9+Joshie+-+Borrow+%E2%85%AA" alt="Typing SVG" />
-  </a>
-</h1>
-<br>
-<h2 align="center">👋 Hallo visitors</h2>
-<p align="center">
-  <img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNhOHprc2hraDJhc3VrMnYzc2E4YXRzN2M0MGNuZXU4eGw4enExbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUckyQVjuHNx9vXUtv/giphy.gif">
-I'm a 2nd year IT student with a strong interest in web development and graphic design.
-I enjoy turning ideas and inspiration into functional, visually appealing projects, and I'm constantly learning through hands-on practice.
-<br><br>
-Right now, I'm focused on building solid foundations in frontend development, improving design consistency, JavaScript logic and fundamentals, and developing projects that reflect real-world use cases.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:1F2D24,100:6FAE75&section=header&text=&fontSize=0" width="100%" alt="" />
+
+<a href="https://github.com/Nyxth-666">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=6FAE75&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Joshua+%F0%9F%8C%BF;Web+Developer+%26+Designer;2nd-Year+IT+Student" alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Nyxth-666&style=flat-square&label=profile+views&color=6FAE75&labelColor=1F2D24" alt="Profile views" />
+  <a href="https://github.com/Nyxth-666?tab=followers"><img src="https://img.shields.io/github/followers/Nyxth-666?style=flat-square&color=6FAE75&labelColor=1F2D24" alt="Followers" /></a>
 </p>
-<br>
-<h2 align="center">🛠 Tech Stacks & Tools</h2>
-<h3 align="center">Tech Stack</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-%23007acc?style=for-the-badge&logo=typescript&logoColor=%23fff" alt="TypeScript">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+
 </div>
-<h3 align="center">Tools</h3>
+
+---
+
+### 🌱 About
+
+I'm a 3rd-year IT student with a strong interest in **web development** and **graphic design**.
+I like turning ideas into functional, good-looking projects, and I learn best by building.
+
+Right now I'm focused on solid frontend foundations, consistent design, and projects that reflect real-world use.
+
+### 🛠 Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-1F2D24?style=flat-square&logo=html5&logoColor=A3C585" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1F2D24?style=flat-square&logo=css3&logoColor=A3C585" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-1F2D24?style=flat-square&logo=javascript&logoColor=A3C585" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-1F2D24?style=flat-square&logo=react&logoColor=A3C585" alt="React" />
+  <img src="https://img.shields.io/badge/Python-1F2D24?style=flat-square&logo=python&logoColor=A3C585" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-1F2D24?style=flat-square&logo=django&logoColor=A3C585" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-1F2D24?style=flat-square&logo=nodedotjs&logoColor=A3C585" alt="Node.js" />
+  <br />
+  <img src="https://img.shields.io/badge/Git-1F2D24?style=flat-square&logo=git&logoColor=A3C585" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1F2D24?style=flat-square&logo=github&logoColor=A3C585" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-1F2D24?style=flat-square&logo=figma&logoColor=A3C585" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS_Code-1F2D24?style=flat-square&logo=visualstudiocode&logoColor=A3C585" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Markdown-1F2D24?style=flat-square&logo=markdown&logoColor=A3C585" alt="Markdown" />
+</p>
+
+### 📚 Currently Learning
+
+- JavaScript fundamentals & best practices
+- ReactJS, TypeScript and Tailwind CSS
+- Responsive, mobile-first design
+- Improving UI/UX through practice
+
+### 📦 Featured Projects
+
+| Project                                                                                                 | Description                                             |
+| :------------------------------------------------------------------------------------------------------ | :------------------------------------------------------ |
+| [**Antonia's Flower Bouquet Commerce**](https://github.com/Nyxth-666/Antonia-s-Flower-Bouquet-Commerce) | Team startup e-commerce site for custom flower bouquets |
+| **Lucena Discovery Hub**                                                                                | Café & restaurant discovery web app                     |
+
+### 📊 Stats
+
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+
+<img src="https://streak-stats.demolab.com?user=Nyxth-666&theme=transparent&background=1F2D24&border_radius=8&hide_border=true&ring=6FAE75&fire=A3C585&currStreakLabel=A3C585&sideLabels=A3C585&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9FB3A5" alt="GitHub streak" />
+
 </div>
-<br>
-<h2 align="center">📚 Currently Learning:</h2>
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li>JavaScript fundamentals & best practices</li>
-        <li>Clean and concise web development</li>
-        <li>Responsive and mobile-first design</li>
-        <li>ReactJS fundamentals</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Improving UI/UX through practice</li>
-        <li>TypeScript and Tailwind CSS fundamentals</li>
-        <li>Front-end web development fundamentals</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<br>
-<h2 align="center">🧩 Github Stats</h2>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nyxth-666&theme=shadow-purple&border_radius=5.5" alt="GitHub Streak" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyxth-666&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyxth-666&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&exclude_repo=DSA" height="150" alt="languages graph"  />
-</div>
-<br>
-<h2 align="center">⏱ WakaTime Stats</h2>
+
+### ⏱ Coding Time
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 14 December 2025 - To: 30 October 2026
-
-Total Time: 204 hrs 47 mins
-
-JavaScript    72 hrs 12 mins        ████████▓░░░░░░░░░░░░░░░░   35.25 %
-CSS           54 hrs 6 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.41 %
-HTML          44 hrs 17 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
-Python        20 hrs 54 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Markdown      6 hrs 45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-```
-
 <!--END_SECTION:waka-->
 
-<br>
-<h2 align="center">💻 Activity Graph</h2>
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxth-666&bg_color=000&color=fff&line=8339b3&point=8339b3&area=true&border_color=fff" alt="Nyxth-666's github activity graph" />
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyxth-666&bg_color=1F2D24&color=A3C585&line=6FAE75&point=FFFFFF&area=true&area_color=6FAE75&hide_border=true&radius=8" alt="Contribution graph" width="100%" />
+
 </div>
-<br>
-<h2 align="center">📈 Progress & Practice</h2>
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li>Actively committing school and personal projects.</li>
-        <li>Building projects to apply concepts, not just learn theory.</li>
-        <li>Improving code consistency, structure, and design workflow.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Developing better habits in documentation and version control.</li>
-        <li>On the way to commit every day this year.</li>
-        <li>Actively learning something new every day.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<br>
-<h2 align="center">🚀 Featured Projects</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Nyxth-666/E-Commerce-App">
-        <b>🛒 E-Commerce App</b>
-      </a>
-      <br>
-      A modern e-commerce web app built with React, integrating a third-party API to display products, categories, and images — simulating a real-world shopping experience.
-      <br><br>
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-      <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB" />
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Nyxth-666/Student-Productivity-Hub">
-        <b>📚 Student Productivity Hub</b>
-      </a>
-      <br>
-      A simple and functional productivity website for students to manage tasks, track study time, and take notes efficiently.
-      <br><br>
-      <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-    </td>
-  </tr>
-</table>
-<br>
-<h2 align="center">🔗 Links</h2>
-<p align="center">Coming Soon</p>
-<br>
-<h2 align="center">☕ Fun Facts</h2>
-<img align="right" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZqNGJkdXN6eHdseTY1aXRiN2R5YWNxYWNpMWtsM2V3dXdnM3Z4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbZ41qQ9NqnJ0klRbs/giphy.gif">
+
+### 🔗 Links
+
+Coming soon.
+
+### ☕ Fun Facts
 
 - I like cats 🐱
 - I watch anime almost every day
 - I drink coffee 2–3 times a day
 - I only go out when absolutely necessary
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:6FAE75,100:1F2D24&section=footer&fontSize=0" width="100%" alt="" />
