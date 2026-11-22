@@ -1,7 +1,7 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: 
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 
@@ -21,8 +21,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SECTION_NAME: waka
-          TIME_RANGE: all_time
-          LANG_COUNT: 5
+          TIME_RANGE: last_7_days
           SHOW_TITLE: false
           SHOW_TIME: true
           SHOW_TOTAL: true
